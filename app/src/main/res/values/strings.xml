@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Scrambler2</string>
+    <string name="app_name">Scramblr</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_select">Select</string>
+    <string name="button_scramble">Scramble</string>
+    <string name="button_unscramble">Unscramble</string>
+    <string name="title_activity_choose_image">ChooseImage</string>
 </resources>

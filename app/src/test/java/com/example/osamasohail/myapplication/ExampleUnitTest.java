@@ -1,4 +1,4 @@
-package com.example.scrambler2;
+package com.example.osamasohail.myapplication;
 
 import org.junit.Test;
 
